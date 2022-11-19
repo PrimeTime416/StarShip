@@ -1,4 +1,25 @@
 /target
+/autostart
+/caja
+/cinnamon-session
+/Code
+/enchant
+/evolution
+/goa-1.0
+/google-chrome
+/gtk-3.0
+/hexchat
+/menus
+/nemo
+/pulse
+/qt5ct
+/Thonny
+/xed
+/dconf
+mimeapps.list
+user-dirs.dirs
+user-dirs.locale
+
 
 
 # Added By: a2kerr@gmail.com November 19, 2022
